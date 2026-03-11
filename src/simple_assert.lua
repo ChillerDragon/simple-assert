@@ -5,8 +5,8 @@ local function assert_eq(expected, actual)
 
 	local msg = string.format([[
 ❌ Assertion failed
-  Expected: %s
-  Actual:   %s
+  Expected: '%s'
+  Actual:   '%s'
 ]], tostring(expected), tostring(actual))
 
 	error(msg, 2)
