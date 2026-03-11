@@ -1,6 +1,6 @@
 package = "simple-assert"
 rockspec_format = "3.0"
-version = "scm-0"
+version = "1.0-1"
 source = {
   url = "git+https://github.com/ChillerDragon/simple-assert.git",
   branch = "master"
